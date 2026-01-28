@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas!
 
-<!--
-**lcspoda2/lcspoda2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante iniciante em programação  
+🐍 Atualmente aprendendo **Python**  
+📊 Focado em lógica, funções e análise de dados  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Estou estudando programação do zero, com foco em:
+- Lógica de programação
+- Listas e dicionários
+- Funções em Python
+- Organização de código
+- Análise básica de dados
+
+Estou construindo meus projetos passo a passo para evoluir na área de tecnologia.
+
+---
+
+## 🧠 Tecnologias que estou aprendendo
+
+- Python 🐍
+- Git e GitHub
+- Lógica de programação
+- Análise de dados (nível iniciante)
+
+---
+
+## 📂 Meus projetos
+
+Aqui estão alguns projetos que desenvolvi durante meus estudos:
+
+- 📌 Cadastro de pessoas (maiores e menores de idade)
+- 📌 Análise de notas
+- 📌 Funções que retornam listas
+- 📌 Exercícios de lógica em Python
+
+*(novos projetos serão adicionados conforme avanço nos estudos)*
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/lcspoda2
+
+---
+
+⭐ Estou em constante aprendizado!
