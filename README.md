@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Lucas!
 
 🎓 Estudante iniciante em programação  
-🐍 Atualmente aprendendo **Python**  
+🐍 Atualmente aprendendo **Python**   
 📊 Focado em lógica, funções e análise de dados  
 
 ---
