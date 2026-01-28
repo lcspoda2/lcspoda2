@@ -33,6 +33,7 @@ Estou construindo meus projetos passo a passo para evoluir na área de tecnologi
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
 - 📌 Cadastro de pessoas (maiores e menores de idade)
+- 📌 Analise de notas (Acima e Abaixo da media)
 
 *(novos projetos serão adicionados conforme avanço nos estudos)*
 
