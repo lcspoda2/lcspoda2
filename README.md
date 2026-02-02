@@ -1,12 +1,12 @@
-# 👋 Olá, eu sou o Lucas!
+#  Olá, eu sou o Lucas!
 
-🎓 Estudante iniciante em programação  
-🐍 Atualmente aprendendo **Python**   
-📊 Focado em lógica, funções e análise de dados  
+ Estudante iniciante em programação  
+ Atualmente aprendendo **Python**   
+ Focado em lógica, funções e análise de dados  
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Estou estudando programação do zero, com foco em:
 - Lógica de programação
@@ -19,30 +19,31 @@ Estou construindo meus projetos passo a passo para evoluir na área de tecnologi
 
 ---
 
-## 🧠 Tecnologias que estou aprendendo
+##  Tecnologias que estou aprendendo
 
-- Python 🐍
+- Python 
 - Git e GitHub
 - Lógica de programação
 - Análise de dados (nível iniciante)
 
 ---
 
-## 📂 Meus projetos
+##  Meus projetos
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
 - 📌 Cadastro de pessoas (maiores e menores de idade)
 - 📌 Analise de notas (Acima e Abaixo da media)
+- 📌 Analise de vendas
 
 *(novos projetos serão adicionados conforme avanço nos estudos)*
 
 ---
 
-## 📫 Contato
+##  Contato
 
 - GitHub: https://github.com/lcspoda2
 
 ---
 
-⭐ Estou em constante aprendizado!
+ Estou em constante aprendizado!
